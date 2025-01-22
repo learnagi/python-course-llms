@@ -1,6 +1,20 @@
+---
+title: "Python环境搭建"
+slug: "environment-setup"
+sequence: 1
+description: "学习如何在不同操作系统上安装和配置Python开发环境，包括Python解释器、VS Code编辑器和虚拟环境的设置"
+status: "published"
+---
+
 # 第一章：Python环境搭建
 
 在开始学习Python编程之前，我们需要先在电脑上安装必要的工具和环境。本章将指导您完成这个过程。
+
+## 本章内容
+
+1. [Python安装指南](./python-installation.md) - 在Windows和macOS系统上安装Python
+2. [代码编辑器配置](./vscode-setup.md) - 安装和配置VS Code
+3. [虚拟环境设置](./virtual-environment.md) - 创建和管理Python虚拟环境
 
 ## 1. Python安装
 

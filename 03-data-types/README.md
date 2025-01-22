@@ -1,6 +1,22 @@
-# 第三章：数据类型和变量进阶
+---
+title: "数据类型和变量进阶"
+slug: "data-types"
+sequence: 3
+description: "深入学习Python中的复杂数据类型，包括列表、字典、元组和集合，以及它们在处理LLM API数据中的应用"
+status: "published"
+---
 
-在本章中，我们将深入学习Python中的复杂数据类型，这些数据类型在处理LLM API返回的数据时非常重要。
+# 数据类型和变量进阶
+
+本章将深入学习Python中的复杂数据类型，这些数据类型在处理LLM API返回的数据时非常重要。我们将通过实际的API数据处理示例来掌握这些数据类型的使用。
+
+## 本章内容
+
+1. [列表操作](./lists.md) - Python列表的创建、访问和常用操作
+2. [字典使用](./dictionaries.md) - 字典的基础操作和嵌套结构
+3. [元组和集合](./tuples-and-sets.md) - 不可变序列和无序集合的使用
+4. [LLM数据处理](./llm-data-handling.md) - 在LLM API数据处理中应用数据类型
+5. [实战练习](./exercises.md) - 通过实践项目巩固所学知识
 
 ## 1. 列表（List）
 

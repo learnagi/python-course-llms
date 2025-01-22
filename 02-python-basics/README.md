@@ -1,6 +1,22 @@
-# 第二章：Python基本语法入门
+---
+title: "Python基本语法入门"
+slug: "python-basics"
+sequence: 2
+description: "学习Python的基础语法概念，包括代码结构、变量、数据类型、运算符和输入输出操作"
+status: "published"
+---
 
-本章将介绍Python的基本语法，我们会通过简单的例子来学习这些概念。
+# Python基本语法入门
+
+本章将介绍Python的基本语法概念，通过简单的例子帮助您掌握Python编程的基础知识。
+
+## 本章内容
+
+1. [代码基本结构](./code-structure.md) - Python代码的基本结构和规范
+2. [变量和数据类型](./variables-and-types.md) - 变量定义、命名规则和基本数据类型
+3. [运算符](./operators.md) - 算术、比较和逻辑运算符
+4. [输入和输出](./io-operations.md) - 基本输入输出操作和字符串格式化
+5. [练习实战](./exercises.md) - 通过实践项目巩固所学知识
 
 ## 1. Python代码基本结构
 
