@@ -1,6 +1,20 @@
+---
+title: "Python LLM 开发实战课程"
+slug: "python-llm-course"
+description: "一个面向LLM开发的Python教程，从环境搭建到API调用，系统地学习Python编程和大语言模型应用开发"
+status: "published"
+---
+
 # Python LLM 开发实战课程
 
-本课程旨在教授如何使用Python开发大语言模型(LLM)应用，从基础知识到实际应用开发。
+这是一个专注于LLM（大语言模型）开发的Python教程，从Python基础知识到实际的LLM API应用开发，系统地介绍相关知识和实践经验。
+
+## 课程特点
+
+- 🎯 面向LLM开发：所有示例和练习都围绕LLM应用开发展开
+- 📈 循序渐进：从Python基础到高级特性，适合各层次学习者
+- 💻 实战导向：每章都包含实际的编程练习和项目实践
+- 🔄 及时更新：根据最新的LLM发展动态更新教程内容
 
 ## 课程结构
 
@@ -164,3 +178,18 @@
 - [DeepSeek文档](https://platform.deepseek.com/)
 - [文心一言开放平台](https://cloud.baidu.com/doc/WENXINWORKSHOP/index.html)
 - [智谱AI开发者中心](https://open.bigmodel.cn/)
+
+## 参与贡献
+
+我们欢迎各种形式的贡献，包括但不限于：
+
+- 报告问题和bug
+- 提出改进建议
+- 提交内容修改
+- 补充更多示例
+
+贡献前请先阅读我们的[贡献指南](./contributing-guide.md)。
+
+## 许可证
+
+本教程采用 MIT 许可证。详见 [LICENSE](./LICENSE) 文件。
