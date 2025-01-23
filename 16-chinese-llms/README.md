@@ -1,4 +1,12 @@
-# 第十七章：中国大模型实战
+---
+title: "中国大模型实战"
+slug: "chinese-llms"
+sequence: 16
+description: "学习如何使用和集成中国主流大语言模型，包括DeepSeek、文心一言、ChatGLM等，并通过实战案例掌握应用开发"
+status: "published"
+---
+
+# 中国大模型实战
 
 本章将介绍如何使用中国主流的大语言模型，包括DeepSeek、文心一言、智谱AI等，并通过实际案例展示它们的应用。
 

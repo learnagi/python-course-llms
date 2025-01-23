@@ -8,6 +8,8 @@ status: "published"
 
 # 第一章：Python环境搭建
 
+![Python Environment Setup](./images/python-environment.svg)
+
 在开始学习Python编程之前，我们需要先在电脑上安装必要的工具和环境。本章将指导您完成这个过程。
 
 ## 本章内容

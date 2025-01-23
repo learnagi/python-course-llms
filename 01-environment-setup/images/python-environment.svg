@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f5f5f5"/>
+  
+  <!-- Python Logo -->
+  <g transform="translate(350,50)">
+    <path d="M 0,0 C -20,-20 -40,20 0,40 C 40,20 20,-20 0,0" fill="#366994"/>
+    <path d="M 0,0 C 20,-20 40,20 0,40 C -40,20 -20,-20 0,0" fill="#ffd43b"/>
+  </g>
+  
+  <!-- Environment Components -->
+  <g transform="translate(100,200)">
+    <!-- Python Installation -->
+    <rect x="0" y="0" width="120" height="60" rx="10" fill="#366994"/>
+    <text x="60" y="35" text-anchor="middle" fill="white" font-family="Arial">Python</text>
+    
+    <!-- Virtual Environment -->
+    <rect x="200" y="0" width="120" height="60" rx="10" fill="#4B8BBE"/>
+    <text x="260" y="35" text-anchor="middle" fill="white" font-family="Arial">venv</text>
+    
+    <!-- IDE/Editor -->
+    <rect x="400" y="0" width="120" height="60" rx="10" fill="#306998"/>
+    <text x="460" y="35" text-anchor="middle" fill="white" font-family="Arial">VS Code</text>
+    
+    <!-- Connection Lines -->
+    <line x1="120" y1="30" x2="200" y2="30" stroke="#666" stroke-width="2"/>
+    <line x1="320" y1="30" x2="400" y2="30" stroke="#666" stroke-width="2"/>
+  </g>
+  
+  <!-- Title -->
+  <text x="400" y="150" text-anchor="middle" font-family="Arial" font-size="24" fill="#333">Python Development Environment Setup</text>
+</svg>
